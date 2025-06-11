@@ -19,7 +19,7 @@ From the root folder of the project, run:
 
 ## Downloading manually
 Download the zip file from:
-https://drive.google.com/file/d/1GhSt-Wy2GHIzYImiWQfDxgf0HOpaettR/view?usp=sharing
+https://drive.google.com/file/d/1X_711FI5LEGXCtJrLqPupkVLWr4S8Ufu/view?usp=drive_link
 and then unzip it here.
 
 
